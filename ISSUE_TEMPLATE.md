@@ -19,8 +19,8 @@ I am writing to request that an old plugin be added onto Poggit Release. Details
 
 
 
-#### Is it in the post-Alpha_1.4 format?
-<!-- This request may be rejected if it is only available in the Alpha_1.3 (file.php plugins) format -->
+#### Is it in the pre-Alpha_1.4 format?
+<!-- "pre-Alpha_1.4" plugins can be understood as plugins that are released in a .php file instead of a .phar file -->
 
 
 

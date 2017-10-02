@@ -19,8 +19,8 @@ I am writing to request that an old plugin be added onto Poggit Release. Details
 
 
 
-#### Is it in the pre-Alpha_1.4 format?
-<!-- "pre-Alpha_1.4" plugins can be understood as plugins that are released in a .php file instead of a .phar file -->
+#### Was it released before mid-2014?
+<!-- If the plugin does not have a plugin.yml and was written before mid-2014, it is in the Alpha_1.3 format. It'd be hard to update such plugins. -->
 
 
 
